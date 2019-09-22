@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>The Engineer in the Mirror</title>
+    <meta name="description" content="The Engineer in the Mirror">
+
+    <!-- bootstrap stylesheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <h1>The Engineer in the Mirror</h1>
+
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="iAmMenuButton" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">I am</button>
+    <form class="dropdown-menu" aria-labelledby="dropdownMenuButton" id='iAmMenu'>
+        <input type="checkbox" name="iAmVar" id="female_check" value="female"><label
+            for='female_check'>Female</label><br>
+        <input type="checkbox" name="iAmVar" id="nonBinary_check" value="nonBinary"><label for='nonBinary_check'>Gender
+            non-binary</label><br>
+        <input type="checkbox" name="iAmVar" id="male_check" value="male"><label for='male_check'>Male</label><br>
+    </form></button>
+    <br><button class="btn btn-primary" type='button' id='mirrorLookButton'>Look in the Mirror</button>
+
+    <!-- jquery, popper.js, and bootstrap js to allow bootstrap to function -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+    <script src="js/scripts.js"></script>
+</body>
