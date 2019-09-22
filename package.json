@@ -1,0 +1,23 @@
+{
+  "name": "nerds-like-me",
+  "version": "0.1.0",
+  "proxy": "http://localhost:5000",
+  "heroku-run-build-script": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.4.12"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "nodemon --watch server server/server.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
