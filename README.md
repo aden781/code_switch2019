@@ -16,7 +16,7 @@ Some supporting statistics:
 - Technology is an attractive career option for people with different backgrounds because its about continued learning as opposed to a specific background. 
 - [Research](https://blog.salesflare.com/diversity-in-tech-industry) on diversity and inclusion in technology shows that representation is essential to long-term belonging.
 - Representation is also a business imperative: A study [from McKinsey & Company](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) found that companies in the top quartile for gender or racial and ethnic diversity are “more likely to have financial returns above their national industry medians.”
-- Our goal of cnonecting people through our work will help with the personal networks. In 2016, [LinkedIn estimated](https://news.linkedin.com/2017/6/eighty-percent-of-professionals-consider-networking-important-to-career-success) that 70% of people were hired at a company where they had a connection.
+- Our goal of connecting people through our work will help with the personal networks. In 2016, [LinkedIn estimated](https://news.linkedin.com/2017/6/eighty-percent-of-professionals-consider-networking-important-to-career-success) that 70% of people were hired at a company where they had a connection.
 
 
 ## Usage 
@@ -36,7 +36,7 @@ Todo
 
 ## Contributing 
 
-We're early days. Feel free to pick up where we started or add more statistics to why this matters. 
+We're in early days. Feel free to pick up where we started or add more statistics to why this matters. 
 
 Please [first open an issue](https://github.com/aden781/code_switch2019/issues) before offering a pull request so that we can ensure we will merge your hard work into the project.
 
